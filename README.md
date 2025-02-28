@@ -1,7 +1,7 @@
 # IMDB Top 1000 Data Analysis
 
 ## 📌 Project Overview
-This project explores the **IMDb Top 1000 Movies Dataset**, analyzing trends in movie ratings, genres, and box office performance. Using **Python, Pandas, and Plotly**, we uncover insights about the most successful films and directors.
+This project explores the **IMDb Top 1000 Movies Dataset**, analyzing trends in movie ratings, genres, and box office performance. Using **Python, Pandas,Matplotlib and Plotly**, we uncover insights about the most successful films and directors.
 
 ## 📊 Features
 - **Data Cleaning:** Standardized runtime, converted earnings, and handled missing values.
