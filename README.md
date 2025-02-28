@@ -26,7 +26,7 @@ This project explores the **IMDb Top 1000 Movies Dataset**, analyzing trends in 
 - **Box Office Trends:** Do higher earnings guarantee higher ratings? (Explore in interactive graphs!)
 
 ## 🔗 Live Interactive Visualizations
-📊 [Check it out on Plotly (Link to be added)]
+📊 [Check it out on Plotly (file:///E:/OneDrive/Desktop/MovieRatingsAnalysis/imdb_scatter_plot.html)]
 
 ## 📥 Installation & Usage
 1. Clone the repository:
